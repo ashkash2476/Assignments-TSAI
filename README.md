@@ -2,7 +2,7 @@
 
 Definations:
 
-  1)Convolution:The process of matrix multiplication
+-Convolution:The process of matrix multiplication
   2)Filters/Kernels: N X N matrix whose purpose is to extract specific characterstics from an image
   3)Epochs:
   4)1x1 Convolution: The process of multiplying the input with a a 1 X 1 matrix  
